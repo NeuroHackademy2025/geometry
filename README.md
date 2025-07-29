@@ -2,9 +2,13 @@
 
 This is a library of functions for geometric calculations.
 
+<<<<<<< Updated upstream
 Created during NeuroHackademy 2025.
 
 With help from participants in the GitHub session.
+=======
+Making changes.
+>>>>>>> Stashed changes
 
 # Contributing
 
