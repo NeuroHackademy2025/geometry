@@ -1,5 +1,7 @@
 # geometry
 
+This is my own origin remote.
+
 This is a library of functions for geometric calculations.
 
 Created during NeuroHackademy 2025.
