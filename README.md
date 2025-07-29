@@ -4,7 +4,7 @@ This is a library of functions for geometric calculations.
 
 Created during NeuroHackademy 2025.
 
-With help from participants in the GitHub session.
+With help from the amazing and talented participants in the GitHub session. 
 
 # Contributing
 
