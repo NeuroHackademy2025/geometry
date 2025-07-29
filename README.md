@@ -16,4 +16,8 @@ an issue before starting to work on major changes, to discuss these changes firs
 
 Please post issues on the project GitHub page.
 
-Foo bar. 
+# Haiku
+
+Git pull requesting
+GitHub confuses us all
+But we rise and shine
